@@ -73,3 +73,7 @@ A Flask-based web application with React frontend for brain tumor detection usin
 ## Important Note
 
 This application is intended for educational and research purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a qualified healthcare provider with any questions you may have regarding a medical condition.
+
+
+## Views
+![Brain tumor](https://github.com/user-attachments/assets/56a97316-1c11-404d-a9dd-a051a196189f)
